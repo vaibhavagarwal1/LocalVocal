@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "420019545974",
+    "firebase_url": "https://local-vocal-c3d23-default-rtdb.firebaseio.com",
+    "project_id": "local-vocal-c3d23",
+    "storage_bucket": "local-vocal-c3d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420019545974:android:c57c7360bed5441669fc57",
+        "android_client_info": {
+          "package_name": "com.dev.localvocal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420019545974-n8idqikree71j6mvlcr8fjd192m5ta2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.localvocal",
+            "certificate_hash": "dbf40f767eb647df36cee426492a8ed889c637e5"
+          }
+        },
+        {
+          "client_id": "420019545974-hhf01k7tu51l7u93s1hv4tumcculdjh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFPhlRDXN0xlXS_pONc3VttFuOmrAcaEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420019545974-hhf01k7tu51l7u93s1hv4tumcculdjh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

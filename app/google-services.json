@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420019545974",
+    "project_id": "local-vocal-c3d23",
+    "storage_bucket": "local-vocal-c3d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420019545974:android:c57c7360bed5441669fc57",
+        "android_client_info": {
+          "package_name": "com.dev.localvocal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420019545974-hhf01k7tu51l7u93s1hv4tumcculdjh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFPhlRDXN0xlXS_pONc3VttFuOmrAcaEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420019545974-hhf01k7tu51l7u93s1hv4tumcculdjh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

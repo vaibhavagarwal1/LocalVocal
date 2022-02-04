@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--adding items to show in bottom navigation Bar-->
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_search_black"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/nav_orders"
+        android:icon="@drawable/ic_orders_black"
+        android:title="Orders" />
+
+    <item
+        android:id="@+id/nav_notify"
+        android:icon="@drawable/ic_notification_black"
+        android:title="Notify" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_person_black"
+        android:title="Profile" />
+
+</menu>
